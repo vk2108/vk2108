@@ -1,4 +1,9 @@
+## PRIMARY GITHUB REPOSITORY LINK: https://github.com/VISHAL21082003
+
+
 # 💫 About Me:
+
+
 🔭 I’m currently working on<br>Advanced computer vision and deep learning technologies with the Visual Intelligence Team at Samsung R&D Institute India.<br><br>👯 I’m looking to collaborate on<br>Projects in machine learning, computer vision, and web development, leveraging skills in Python, C++, and data analysis.<br><br>🤝 I’m looking for help with<br>Enhancing knowledge in advanced machine learning algorithms, contributing to open-source projects, and connecting with AI and deep learning communities.<br><br>🌱 I’m currently learning<br>Advanced deep learning techniques, TensorFlow, PyTorch, data analytics, and cloud computing.<br><br>💬 Ask me about<br>Machine learning and deep learning<br>Web development with HTML, CSS, and JavaScript<br>Internship and research experiences<br>Tips for high accuracy in computer vision models<br>Data Structures and Algorithms (DSA)<br>Software Development<br><br>⚡ Fun fact<br>Won first place in the Script Sonic Hackathon with a cash prize of ₹3000. Enjoy singing and playing cricket in spare time.
 
 
